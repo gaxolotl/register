@@ -1,0 +1,16 @@
+{
+    "description": "Revolt Private Chat",
+    "domain": "open-comm.org",
+    "subdomain": "revolt",
+
+    "owner": {
+        "repo": "https://github.com/gaxolotl/register",
+        "email": "177118247+gaxolotl@users.noreply.github.com"
+    },
+
+    "record": {
+        "A": ["213.240.212.35"]
+    },
+
+    "proxied": true
+}
