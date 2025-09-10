@@ -1,7 +1,7 @@
 {
     "description": "Revolt Private Chat",
     "domain": "open-comm.org",
-    "subdomain": "revolt",
+    "subdomain": "*.revolt",
 
     "owner": {
         "repo": "https://github.com/gaxolotl/register",
